@@ -9,3 +9,17 @@ First of all we need to add camunda archetype-servlet-war to our intellij maven 
 ![image](https://github.com/ghailen/camunda-archetype-servlet-war-example/assets/36199753/9f64c71e-e6e2-41ea-a08c-d251339ad6ab)
 
 
+The default bpmn file named process.bpmn
+the structure of the project is like this :
+Resources folder contains the bpmn files
+Webapp folder contains forms file: 
+![image](https://github.com/ghailen/camunda-archetype-servlet-war-example/assets/36199753/c11ca22e-56ad-46b4-9924-94db9a203282)
+
+Lets here add a task (a user task which will be executed by a user)
+and add a name to the process :
+![image](https://github.com/ghailen/camunda-archetype-servlet-war-example/assets/36199753/c0ffd883-2b33-48b5-be2c-d6b95b11c2fc)
+
+
+Now lets save the new bpmn file and run : 
+-maven clean
+-maven install
