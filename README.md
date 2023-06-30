@@ -2,7 +2,10 @@
 
 First of all we need to add camunda archetype-servlet-war to our intellij maven project
 
-https://artifacts.camunda.com/artifactory/camunda-bpm/
+groupId: org.camunda.bpm.archetype
+ArtifactId: camunda-archetype-servlet-war
+version : 7.16
+Repository: https://artifacts.camunda.com/artifactory/camunda-bpm/
 
 ![image](https://github.com/ghailen/camunda-archetype-servlet-war-example/assets/36199753/18bcd69b-219f-4bea-b4f8-fd4903630bf8)
 
