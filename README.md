@@ -8,6 +8,10 @@ First of all we need to add camunda archetype-servlet-war to our intellij maven 
 
 ![image](https://github.com/ghailen/camunda-archetype-servlet-war-example/assets/36199753/9f64c71e-e6e2-41ea-a08c-d251339ad6ab)
 
+We can found to many dependancies here : like junit , H2 database ...
+
+![image](https://github.com/ghailen/camunda-archetype-servlet-war-example/assets/36199753/7efdf08d-0593-4d22-8e42-8ce51603da73)
+
 
 The default bpmn file named process.bpmn
 the structure of the project is like this :
