@@ -23,3 +23,7 @@ and add a name to the process :
 Now lets save the new bpmn file and run : 
 -maven clean
 -maven install
+
+a war was generated :
+![image](https://github.com/ghailen/camunda-archetype-servlet-war-example/assets/36199753/42e1965e-df36-4c98-8b0d-4b0f4ad1ebe4)
+
